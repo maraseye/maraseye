@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0a2463,100:1e90ff&height=210&section=header&text=Hi%2C+I%27m+Mara+%F0%9F%91%8B&fontSize=40&fontColor=8ecdf7&fontAlignY=38&desc=Engineering+the+web%2C+one+layer+at+a+time&descAlignY=58&descColor=5fa8e0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0a2463,100:1e90ff&height=210&section=header&text=Hi%2C+I%27m+Mara+%F0%9F%91%8B&fontSize=40&fontColor=8ecdf7&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -88,12 +88,15 @@
 
 ---
 
-<details open>
+<details>
 <summary><h2>📊 GitHub Stats</h2></summary>
 
 <div align="center">
 
-![](https://github-readme-stats-fast.vercel.app/api?username=maraseye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![Total Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fmaraseye%3Fy%3Dall&query=sum(total.*)&label=Total%20Contributions&color=1e90ff&style=for-the-badge&logo=github&logoColor=white)
+![Contributions 2026](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fmaraseye%3Fy%3Dall&query=total.%222026%22&label=Contributions%20This%20Year&color=0a2463&style=for-the-badge&logo=github&logoColor=white)
+![Contributions 2025](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fmaraseye%3Fy%3Dall&query=total.%222025%22&label=Contributions%20Last%20Year&color=0a2463&style=for-the-badge&logo=github&logoColor=white)
+![Total Issues](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Amaraseye%2Btype%3Aissue&query=total_count&label=Total%20Issues&color=1e90ff&style=for-the-badge&logo=github&logoColor=white)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=maraseye&theme=tokyonight&hide_border=false)
 
@@ -105,7 +108,7 @@
 
 ---
 
-<details>
+<details open>
 <summary><h2>🏆 Trophies &amp; Activity</h2></summary>
 
 <div align="center">
