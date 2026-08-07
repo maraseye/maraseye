@@ -97,6 +97,10 @@
 ![Contributions 2025](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fmaraseye%3Fy%3Dall&query=%24.total%5B%222025%22%5D&label=Contributions%20Last%20Year&color=0a2463&style=for-the-badge&logo=github&logoColor=white)
 ![Total Issues](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Amaraseye%2Btype%3Aissue&query=%24.total_count&label=Total%20Issues&color=1e90ff&style=for-the-badge&logo=github&logoColor=white)
 
+![](https://nirzak-streak-stats.vercel.app/?user=maraseye&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maraseye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 </details>
