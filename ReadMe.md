@@ -42,13 +42,18 @@
 
 <div align="center">
 
+<h3>📝 Programming Languages</h3>
+<img src="https://skillicons.dev/icons?i=python,c,java,php,js,ts&theme=dark" />
+
+<br/><br/>
+
 <h3>🎨 Frontend</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
 
 <br/><br/>
 
 <h3>🔧 Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,php,laravel,java,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,php,laravel,java&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/Pydantic-1e3a8a?style=for-the-badge&logo=pydantic&logoColor=white" />
 
