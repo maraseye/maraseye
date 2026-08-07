@@ -93,11 +93,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats-fast.vercel.app/api?username=maraseye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
+![](https://github-readme-stats-fast.vercel.app/api?username=maraseye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=maraseye&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maraseye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maraseye&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
