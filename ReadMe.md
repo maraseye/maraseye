@@ -15,7 +15,7 @@
 
 🎓 Computer Science Engineering student (DIC1) at **ESP / UCAD**, Dakar — trained to design before building, and to understand before designing.
 
-⚙️ Currently interning in **DevOps & microservices**, working with Docker, Traefik, Keycloak and RabbitMQ to keep distributed systems talking to each other properly.
+⚙️ I have gained experience in **DevOps & microservices**, working with Docker, Traefik, Keycloak and RabbitMQ to ensure smooth communication between distributed systems.
 
 🧩 I move comfortably across the stack — from pixel-perfect interfaces to the infrastructure that keeps them alive in production.
 
